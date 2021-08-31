@@ -1,0 +1,9 @@
+.GridItem-root {
+    width: 100%;
+    height: auto;
+}
+
+.GridItem-root img {
+    width: 100%;
+    height: 100%;
+}

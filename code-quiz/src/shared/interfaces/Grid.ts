@@ -5,7 +5,7 @@ export enum TypeGrid {
 }
 
 export enum Side {
-    lEFT = 'Left',
+    LEFT = 'Left',
     RIGHT = 'Right',
     NONE = ''
 }
